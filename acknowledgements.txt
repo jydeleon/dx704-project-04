@@ -1,0 +1,1 @@
+I used the lecture notes, in-class examples, and provided course notebooks as references for implementing ridge regression and the LinUCB algorithm. No additional external libraries beyond those covered in the module (pandas, numpy, and scikit-learn) were used.
